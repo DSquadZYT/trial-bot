@@ -1,1 +1,1 @@
-# 4s-bot
+# dsquad-bot
